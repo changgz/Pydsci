@@ -1,5 +1,5 @@
 # Pydsci
-# 《python数据科学：技术详解与商业实践》配套脚本下载地址： https://pan.baidu.com/s/1Q3Di_JfiomLKiSDTcap4HQ 密码: up7w
+# 《python数据科学：技术详解与商业实践》配套脚本下载地址：https://pan.baidu.com/s/1ppMt8Xi5Ho_5u9pPQ3wg9A 提取码：97k9 
 # 使用说明:
 # 1、软件环境为windows7、与Python 3.4-3.6 配套的anaconda,下载地址为https://www.anaconda.com/download/
 # 2、建议解压压缩包后，放在D盘的根目录下
